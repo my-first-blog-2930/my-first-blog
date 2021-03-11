@@ -1,0 +1,10 @@
+https://www.pythonanywhere.com/user/buchipython/
+
+https://github.com/my-first-blog-2930/my-first-blog
+
+DASHBOARD	現在利用中の状況(CPU使用率、ストレージ使用率等)が表示
+CONSOLE		Pythonや、Bash等のコンソールを立ち上げられる
+FILES		ファイルのアップロード、削除、編集、実行等ができる
+WEB		Webアプリの追加、削除、設定ができます
+TASKS		スケジュールで実行するタスク(クーロン)が登録できます
+DATABASES	Mysql,Postgresql(有料プラン)の初期化、設定等
